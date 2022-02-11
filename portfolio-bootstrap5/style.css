@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#home {
+  padding-top: 6rem;
+  background-color: #212529;
+}
+
+#projects {
+  background-color: #212529;
+}
+
+#projects p {
+  color: #000000;
+  text-align: center;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+footer p a {
+  text-decoration: none;
+  color: #fff;
+}
+
+footer p a:hover {
+  color: pink;
+}
